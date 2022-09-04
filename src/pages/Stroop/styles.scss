@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;900&display=swap");
+
+.Stroop-Container {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+h1 {
+  padding-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  //   font-size: 16px;
+  font-weight: 900;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 0.12em;
+  color: white;
+  border: solid;
+  background-color: #282c34;
+
+  border-width: 3px;
+}

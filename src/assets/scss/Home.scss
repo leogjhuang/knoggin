@@ -1,0 +1,146 @@
+.one {
+  padding-top: 25vh;
+}
+
+.two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 23vh;
+}
+
+.three {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 23vh;
+}
+
+.four {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 23vh;
+}
+
+.header {
+  font-size: 4vw;
+  font-weight: bold;
+}
+
+.flex {
+  vertical-align: middle;
+  text-align: center;
+  left: "50%";
+  top: "50%";
+  transform: "translate(-50%, -50%)";
+}
+
+.randomGame {
+  padding-top: 15px;
+}
+
+.randomGame:hover {
+  cursor: pointer;
+  color: #b2d4c9;
+}
+
+.title {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+img:hover {
+  cursor: pointer;
+}
+
+.usoLogo {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 1.4vw;
+  width: 10vw;
+  height: 10vw;
+  border-radius: 50%;
+  font-size: 4vw;
+  color: white;
+  border: 1px solid #b2d4c9;
+  background: #b2d4c9;
+}
+
+.usoLogo:hover {
+  cursor: pointer;
+}
+
+.uso {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.uso:hover {
+  color: #b2d4c9;
+  cursor: pointer;
+}
+
+.sudotypeLogo {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 1.45vw;
+  width: 10vw;
+  height: 10vw;
+  border-radius: 50%;
+  font-size: 4vw;
+  color: white;
+  border: 1px solid #cbcbe5;
+  background: #cbcbe5;
+}
+
+.sudotype {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.sudotypeLogo:hover {
+  cursor: pointer;
+}
+
+.sudotype:hover {
+  color: #cbcbe5;
+  cursor: pointer;
+}
+
+.stroopLogo {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 1.9vw;
+  width: 10vw;
+  height: 10vw;
+  border-radius: 50%;
+  font-size: 4vw;
+  color: #ffffff;
+  border: 1px solid #c8beaf;
+  background: #c8beaf;
+}
+
+.stroopLogo:hover {
+  cursor: pointer;
+}
+
+.stroop {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.stroop:hover {
+  color: #c8beaf;
+  cursor: pointer;
+}
+
+.green {
+  color: green;
+}

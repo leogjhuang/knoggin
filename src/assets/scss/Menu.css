@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;700;900&display=swap");
+
+.container-menu {
+  font-family: "Outfit", sans-serif;
+  padding-top: 20vh;
+}
+
+#right {
+  padding-right: 20vh;
+  padding-left: 10vh;
+}
+
+#left {
+  padding-left: 20vh;
+  padding-right: 10vh;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 900;
+  /* color: red; */
+  font-size: 10vh;
+}
+
+h3 {
+  font-weight: 700;
+}
